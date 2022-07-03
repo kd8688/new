@@ -57,6 +57,11 @@ public class LoginPageTest extends TestListners {
 	{
 		System.out.println("t2");
 	}
+	@Test
+	public void t4()
+	{
+		System.out.println("t4");
+	}
 	
 
 }
